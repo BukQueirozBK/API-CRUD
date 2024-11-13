@@ -30,8 +30,8 @@ Este projeto fornece uma API CRUD de produtos com logging de visualizações em 
 
 ##1 Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/API-CRUD-Produtos.git
-   cd API-CRUD-Produtos
+   git clone https://github.com/seu-usuario/API-CRUD.git
+   cd API-CRUD
 Inicie o ambiente com Docker Compose:
 
 bash
@@ -53,6 +53,7 @@ main.py: Arquivo principal para execução do FastAPI.
 Dockerfile e docker-compose.yml: Configurações de contêineres Docker.
 Documentação e Testes
 Documentação automática: Disponível em /docs, gerada pelo FastAPI com Swagger UI.
-Postman Collection: A coleção Postman com as rotas está incluída, documentando cada endpoint e permitindo execução de testes.
+Postman Collection: A coleção Postman com as rotas está incluída, documentando cada endpoint e permitindo execução de testes. Link: https://www.postman.com/mission-operator-60483130/api-crud/collection/amh2u2o/api-crud-produtos?action=share&creator=38407023
+
 Contribuições
 Sinta-se à vontade para abrir issues e pull requests no repositório GitHub para melhorias e sugestões.##
